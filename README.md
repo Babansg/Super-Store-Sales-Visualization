@@ -51,3 +51,7 @@ Applied Power Query transformations
 
 Used DAX to calculate custom measures like average delivery time
 
+📷 Dashboard Screenshot:
+
+
+
