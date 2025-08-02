@@ -53,5 +53,5 @@ Used DAX to calculate custom measures like average delivery time
 
 📷 Dashboard Screenshot:
 
-
+https://github.com/Babansg/Super-Store-Sales-Visualization/blob/main/Super%20Store%20Sales%20Dashboard.png
 
